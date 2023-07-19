@@ -1,9 +1,13 @@
 import React from 'react'
+import Header from './Header'
+
 
 const Baitapthuchanhlayout = () => {
   return (
-    <div>Baitapthuchanhlayout</div>
+    <div>
+      <Header></Header>
+
+    </div>
   )
 }
-
 export default Baitapthuchanhlayout
